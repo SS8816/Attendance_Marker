@@ -16,9 +16,9 @@ form_url = "https://docs.google.com/forms/d/e/1FAIpQLScGdySssTCv_-VrqLprYduK6v-T
 your_name = "Shubham Singh"
 your_id = "2022UCP1949"
 
-sender_email = "shubham882005singh@gmail.com"         # Replace with your email
-sender_password = "qxzr fkvm tzpj zrwn"         # Use an App Password if you're using Gmail
-recipient_email = "2022ucp1949@mnit.ac.in"      # Replace with the email to receive the alert
+sender_email = "Enter Email"         # Replace with your email
+sender_password = "Your App Password"         # Use an App Password if you're using Gmail
+recipient_email = "Enter Email"      # Replace with the email to receive the alert
 
 # === DRIVER SETUP ===
 options = webdriver.ChromeOptions()
