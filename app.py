@@ -15,9 +15,9 @@ form_url = "https://docs.google.com/forms/d/e/1FAIpQLScGdySssTCv_-VrqLprYduK6v-T
 your_name = "Shubham Singh"
 your_id = "2022UCP1949"
 
-sender_email = "shubham882005singh@gmail.com"
-sender_password = "qxzr fkvm tzpj zrwn"
-recipient_email = "2022ucp1949@mnit.ac.in"
+sender_email = "Your email"
+sender_password = "Enter Your App Password"
+recipient_email = "Your Email"
 
 # === DRIVER SETUP ===
 options = webdriver.ChromeOptions()
